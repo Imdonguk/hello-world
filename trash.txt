@@ -1,0 +1,1 @@
+git commit -am "feature. 과제 2번완료. 새로운 함수를 나누고 XXX함수를 새로이 추가
